@@ -1,5 +1,11 @@
 import React from "react"
 
+import Cabin from "../assets/img/portfolio/cabin.png"
+import Cake from "../assets/img/portfolio/cake.png"
+import Circus from "../assets/img/portfolio/circus.png"
+import Game from "../assets/img/portfolio/game.png"
+import Safe from "../assets/img/portfolio/safe.png"
+import Submarine from "../assets/img/portfolio/submarine.png"
 
 
 
